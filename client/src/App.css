@@ -1,0 +1,10 @@
+.pokemonList{
+    display: flex;
+    flex-direction: row;
+  }
+.pokeBall{
+  height: 20px;
+}
+a{
+  cursor: pointer;
+}

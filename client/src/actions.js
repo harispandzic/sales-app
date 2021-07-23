@@ -1,0 +1,4 @@
+export const UPDATE_NAME = "SET_NAME";
+export const UPDATE_LOGGED_USER = "SET_LOGGED_USER";
+export const UPDATE_PRODUCTS = "SET_PRODUCTS";
+export const PURCHASE_ITEMS = "SET_PURCHASE_ITEMS";

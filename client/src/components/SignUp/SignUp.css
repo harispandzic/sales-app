@@ -1,0 +1,34 @@
+.row{
+    width:50%;
+}
+.col{
+    display: flex;
+    padding-left: 50%;
+}
+.signUp{
+    padding-left: 40%;
+    padding-top: 5%;
+}
+.row{
+    width:50%;
+}
+.col{
+    display: flex;
+    padding-left: 50%;
+}
+.signIn{
+    padding-left: 40%;
+    padding-top: 5%;
+}
+.input{
+    margin-top: 10px;
+}
+.alert{
+    width: 30%;
+}
+.btnLogin{
+    margin-bottom: 15px;
+}
+.aSignUp{
+    color: rgb(0,21,41);
+}
